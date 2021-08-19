@@ -1,5 +1,5 @@
 {
-    "name": "apiato/debugger-container",
+    "name": "uinno/debugger-container",
     "description": "An Apiato container which helps to debug everything",
     "type": "apiato-container",
     "license": "MIT",
