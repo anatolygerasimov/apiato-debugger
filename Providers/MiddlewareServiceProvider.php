@@ -1,11 +1,11 @@
 <?php
 
-namespace App\Containers\AppSection\Debugger\Providers;
+namespace App\Containers\Vendor\Debugger\Providers;
 
-use App\Containers\AppSection\Debugger\Middlewares\ProfilerMiddleware;
-use App\Containers\AppSection\Debugger\Middlewares\QueryStatsHeaders;
-use App\Containers\AppSection\Debugger\Middlewares\RequestsMonitorMiddleware;
-use App\Containers\AppSection\Debugger\Middlewares\XHProfMiddleware;
+use App\Containers\Vendor\Debugger\Middlewares\ProfilerMiddleware;
+use App\Containers\Vendor\Debugger\Middlewares\QueryStatsHeaders;
+use App\Containers\Vendor\Debugger\Middlewares\RequestsMonitorMiddleware;
+use App\Containers\Vendor\Debugger\Middlewares\XHProfMiddleware;
 use App\Ship\Parents\Providers\MiddlewareProvider;
 use Illuminate\Contracts\Http\Kernel;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Containers\AppSection\Debugger\Providers;
+namespace App\Containers\Vendor\Debugger\Providers;
 
 use App\Ship\Parents\Models\UserModel;
 use Illuminate\Console\Scheduling\Schedule;

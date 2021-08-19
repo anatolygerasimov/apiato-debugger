@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Containers\AppSection\Debugger\Middlewares;
+namespace App\Containers\Vendor\Debugger\Middlewares;
 
 use App\Ship\Parents\Middlewares\Middleware;
 use Closure;

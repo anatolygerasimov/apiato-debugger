@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Containers\AppSection\Debugger\Tasks;
+namespace App\Containers\Vendor\Debugger\Tasks;
 
 use App\Ship\Parents\Tasks\Task;
 use DateTimeInterface;

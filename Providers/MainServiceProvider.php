@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Containers\AppSection\Debugger\Providers;
+namespace App\Containers\Vendor\Debugger\Providers;
 
-use App\Containers\AppSection\Debugger\Tasks\QueryDebuggerTask;
+use App\Containers\Vendor\Debugger\Tasks\QueryDebuggerTask;
 use App\Ship\Parents\Models\Model;
 use App\Ship\Parents\Providers\MainProvider;
 use Illuminate\Database\DatabaseManager;
