@@ -40,9 +40,9 @@ return [
         | Show only certain number of characters from each of these printed results.
         |
         */
-        'response_show_first' => '700',
+        'response_show_first' => 700,
 
-        'token_show_first' => '80',
+        'token_show_first' => 80,
 
     ],
 
